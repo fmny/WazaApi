@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="model">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/wazaJFX/src/main/java/com/thales/wazajfx/model" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
